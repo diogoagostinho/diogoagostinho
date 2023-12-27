@@ -1,4 +1,4 @@
-<h1 align="left">Hello World! <br /> I'm <a href="https://twitter.com/agostinho_dev" target="_blank"><span style="font-weight: bold">Diogo Agostinho</a> <img src="="https://raw.githubusercontent.com/diogoagostinho/diogoagostinho/main/assets/hi.gif" /></span></h1>
+<h1 align="left">Hello World! <br /> I'm <a href="https://twitter.com/agostinho_dev" target="_blank"><span style="font-weight: bold">Diogo Agostinho</a> <img src="https://raw.githubusercontent.com/diogoagostinho/diogoagostinho/main/assets/hi.gif" /></span></h1>
 
 <div style="display:flex; justify-content:space-between;">
     <p align="left" style="float:left">
