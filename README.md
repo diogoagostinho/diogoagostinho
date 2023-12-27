@@ -1,11 +1,34 @@
-<h1 align="left">Hello World! <br /> I'm <a href="https://twitter.com/agostinho_dev" target="_blank"><span style="font-weight: bold">Diogo Agostinho</a> <img src="https://raw.githubusercontent.com/diogoagostinho/diogoagostinho/main/assets/hi.gif" /></span></h1>
+<h1 align="left">Hello World! <br /> I'm <a href="https://twitter.com/agostinho_dev" target="_blank"><span style="font-weight: bold">Diogo Agostinho</a> <img src="https://raw.githubusercontent.com/diogoagostinho/diogoagostinho/main/assets/hi.gif" width="30" height="30"/></span></h1>
 
-<div style="display:flex; justify-content:space-between;">
-    <p align="left" style="float:left">
-        🌐 My Website: <a href="http://diogoagostinho.pt/" target="_blank">diogoagostinho.pt</a>     <br>
-        📧 My Email: <a href="mailto:contacto@diogoagostinho.pt">contacto@diogoagostinho.pt</a>
-    </p>
-    <p align="left">🚀 I'm a self-taught web developer, currently learning front-end.</p>
+<p align="left">🚀 I'm a self-taught web developer, currently learning front-end.</p>
+<p align="left" style="float:left" style="display:flex; justify-content:space-between;">
+    🌐 My Website: <a href="http://diogoagostinho.pt/" target="_blank">diogoagostinho.pt</a>     <br>
+    📧 My Email: <a href="mailto:contacto@diogoagostinho.pt">contacto@diogoagostinho.pt</a>
+</p>
+
+<br>
+<h3>🤙 Keep in touch with me!</h3>
+<hr>
+
+<div align="left">
+  <a href="https://dev.to/diogoagostinho" target="_blank" margin-left="10px">
+   <img height="28px"   src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=devdotto&logoColor=white" /> 
+  </a>
+  <a href="https://www.linkedin.com/in/diogo-agostinho-b99a33224/" target="_blank">
+    <img height="28px"  src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"  />
+  </a>
+  <a href="https://dribbble.com/diogoagostinho" target="_blank">
+    <img height="28px"  src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=white"   />
+  </a>
+    <a href="https://twitter.com/agostinho_dev" target="_blank">
+    <img height="28px" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"  />
+  </a>
+    <a href="https://app.daily.dev/diogoagostinho" target="_blank">
+    <img height="28px" src="https://img.shields.io/badge/Daily.dev-BA3DF2?style=for-the-badge&logo=dailydotdev&logoColor=white"  />
+  </a>
+    <a href="https://hashnode.com/@diogoagostinho" target="_blank">
+    <img height="28px" src="https://img.shields.io/badge/Hashnode-2563EB?style=for-the-badge&logo=hashnode&logoColor=white"  />
+  </a>
 </div>
 
 ###
@@ -28,20 +51,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://dev.to/diogoagostinho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/diogo-agostinho-b99a33224/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.paypal.com/paypalme/diogoagostinho02" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
-  </a>
-  <a href="https://dribbble.com/diogoagostinho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="dribbble logo"  />
-  </a>
-</div>
 
 ###
 
