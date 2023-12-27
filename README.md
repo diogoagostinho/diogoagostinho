@@ -1,8 +1,12 @@
-<h2 align="left">Hello World! I'm Diogo Agostinho 👋</h2>
+<h1 align="left">Hello World! <br /> I'm <a href="https://twitter.com/agostinho_dev" target="_blank"><span style="font-weight: bold">Diogo Agostinho</a> <img src="="https://raw.githubusercontent.com/diogoagostinho/diogoagostinho/main/assets/hi.gif" /></span></h1>
 
-###
-
-<p align="left">🌐 http://diogoagostinho.pt/<br>📧 contacto@diogoagostinho.pt</p>
+<div style="display:flex; justify-content:space-between;">
+    <p align="left" style="float:left">
+        🌐 My Website: <a href="http://diogoagostinho.pt/" target="_blank">diogoagostinho.pt</a>     <br>
+        📧 My Email: <a href="mailto:contacto@diogoagostinho.pt">contacto@diogoagostinho.pt</a>
+    </p>
+    <p align="left">🚀 I'm a self-taught web developer, currently learning front-end.</p>
+</div>
 
 ###
 
@@ -54,5 +58,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/diogoagostinho/diogoagostinho/output/snake.svg" alt="Snake animation" />
-
-
