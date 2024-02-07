@@ -70,6 +70,7 @@
 ![Vite](https://img.shields.io/badge/Vite-9D5BFE?style=for-the-badge&logo=vite&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 <h3>✨ GitHub Stats</h3>
