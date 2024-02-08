@@ -60,7 +60,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-05E1BD?style=for-the-badge&logo=netlify&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS&#160Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS&nbsp;Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <p>Libraries and Tools:</p>
