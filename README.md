@@ -17,17 +17,8 @@
   <a href="https://www.linkedin.com/in/diogo-agostinho-b99a33224/" target="_blank">
     <img height="28px"  src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"  />
   </a>
-  <a href="https://dribbble.com/diogoagostinho" target="_blank">
-    <img height="28px"  src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=Dribbble&logoColor=white"   />
-  </a>
-    <a href="https://twitter.com/agostinho_dev" target="_blank">
+  <a href="https://twitter.com/agostinho_dev" target="_blank">
     <img height="28px" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"  />
-  </a>
-    <a href="https://app.daily.dev/diogoagostinho" target="_blank">
-    <img height="28px" src="https://img.shields.io/badge/Daily.dev-BA3DF2?style=for-the-badge&logo=dailydotdev&logoColor=white"  />
-  </a>
-    <a href="https://hashnode.com/@diogoagostinho" target="_blank">
-    <img height="28px" src="https://img.shields.io/badge/Hashnode-2563EB?style=for-the-badge&logo=hashnode&logoColor=white"  />
   </a>
 </div>
 
