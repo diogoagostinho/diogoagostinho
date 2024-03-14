@@ -12,10 +12,11 @@
 
 <div align="left">
   <a href="https://github.com/diogoagostinho/toyota-stand">
-   <h3>🚗 Toyota Stand</h3>
+   🚗 Toyota Stand
   </a>
+    <br><br>
   <a href="https://4devs.work4thenoob.pt/">
-    <h3>📰 4DEVS</h3>
+    📰 4DEVS
   </a>
 </div>
 
