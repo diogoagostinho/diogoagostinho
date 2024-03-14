@@ -7,6 +7,19 @@
 </p>
 
 <br>
+<h3>🚀 Featured projects</h3>
+<hr>
+
+<div align="left">
+  <a href="https://github.com/diogoagostinho/toyota-stand">
+   <h3>🚗 Toyota Stand</h3>
+  </a>
+  <a href="https://4devs.work4thenoob.pt/">
+    <h3>📰 4DEVS</h3>
+  </a>
+</div>
+
+<br>
 <h3>🤙 Keep in touch with me!</h3>
 <hr>
 
@@ -42,6 +55,7 @@
 ![ReactJS](https://img.shields.io/badge/React-4CB4FF?style=for-the-badge&logo=react&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-3a3b3a?style=for-the-badge&logo=express&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 <p>Databases:</p>
 
@@ -56,17 +70,24 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<p>Libraries and Tools:</p>
+<p>Libraries:</p>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![NextUI](https://img.shields.io/badge/nextui-000000?style=for-the-badge&logo=nextui&logoColor=white)
+
+<p>Tools:</p>
+
+![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-9D5BFE?style=for-the-badge&logo=vite&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![NextUI](https://img.shields.io/badge/nextui-000000?style=for-the-badge&logo=nextui&logoColor=white)
+
+<p>Environments:</p>
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 <br>
 <h3>✨ GitHub Stats</h3>
