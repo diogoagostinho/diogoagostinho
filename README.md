@@ -1,6 +1,6 @@
 <h1 align="left">Hello World! <br /> I'm <a href="https://diogoagostinho.pt" target="_blank"><span style="font-weight: bold">Diogo Agostinho</a> <img src="https://raw.githubusercontent.com/diogoagostinho/diogoagostinho/main/assets/hi.gif" width="30" height="30"/></span></h1>
 
-<p align="left">🚀 I'm a self-taught web developer, currently learning front-end.</p>
+<p align="left">I'm a self-taught web developer, currently learning front-end.</p>
 <p align="left" style="float:left" style="display:flex; justify-content:space-between;">
     🌐 My Website: <a href="http://diogoagostinho.pt/" target="_blank">diogoagostinho.pt</a>     <br>
     📧 My Email: <a href="mailto:contacto@diogoagostinho.pt">contacto@diogoagostinho.pt</a>
