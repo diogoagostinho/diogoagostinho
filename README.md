@@ -2,6 +2,7 @@
 
 <p align="left">I'm a self-taught web and game developer, learning ReactJS and C#</p>
 <p align="left" style="float:left" style="display:flex; justify-content:space-between;">
+    🌐 My Website: <a href="https://diogoagostinhoportfolio.netlify.app/" target="_blank">Portfolio</a><br>
     💻 My Skills: <a href="https://www.linkedin.com/in/daeagostinho/" target="_blank">LinkedIn Profile</a><br>
     ✉️ My Email: <a href="mailto:d.agostinho2002@gmail.com">d.agostinho2002@gmail.com</a>
 </p>
